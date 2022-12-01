@@ -1,0 +1,39 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+ .jumbotron {
+    padding: 4vh;
+    flex-direction: row;
+    text-decoration: none;
+ }  
+
+ .row-gambar {
+   display: flex;
+   justify-content: center;
+   align-content: center;
+   flex-direction: row;
+   flex-wrap: wrap;
+ }
+
+ .col-gambar {
+   margin: 10px;
+ }
+
+ .photo-image {
+   width: 240px;
+ }
+
+.name {
+  justify-content: center;
+}
+
+.email {
+  justify-content: center;
+}
+
+.Pesan{
+  justify-content: center;
+}
